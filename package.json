@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "express": "^4.16.4"
+  },
+  "dependencies": {
+    "mongodb": "^3.2.4"
+  }
+}
